@@ -6,6 +6,9 @@ body {
 
 header {
     background-color: #F4F8FC;
+}
+
+.banner {
     font-weight: 700;
     font-size: 2.5rem;
 }
