@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+header {
+    background-color: #F4F8FC;
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+.blue-text {
+    color: #074D8C;
+}
+
+.section-title {
+    font-weight: 500;
+    font-size: 2rem;
+    color: #074D8C;
+}
